@@ -39,5 +39,8 @@ During the development of the detection system, the following challenges were en
 By strategically tackling these challenges and maximizing the available resources, the Wildlife Conservation Detection System was successfully developed within the hackathon's constraints.
 
 ## Alert Output
-![image](https://github.com/Naveenlingala/Wildlife-Conservation-Project/assets/60232407/f3c55d94-10f1-4655-935d-d9a14aaf263c)
+- WebSite Quick Demo:- (https://drive.google.com/file/d/1S8TOoh9hTh7WAUCdIvk-cJzlFV27jHjn/view)
+- Alert sent to email
+- ![image](https://github.com/Naveenlingala/Wildlife-Conservation-Project/assets/60232407/f3c55d94-10f1-4655-935d-d9a14aaf263c)
+
 
